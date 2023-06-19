@@ -1,0 +1,53 @@
+{
+  "culture": "ar",
+  "texts": {
+    "Menu:Home": "الرئيسية",
+    "Welcome": "مرحبا",
+    "LongWelcomeMessage": "مرحبا بكم في التطبيق. هذا مشروع بدء تشغيل يعتمد على إطار عمل ABP. لمزيد من المعلومات ، يرجى زيارة abp.io.",
+    "Menu:BookStore": "مكتبة لبيع الكتب",
+
+    //Books
+    "Menu:Books": "كتب",
+    "Actions": "الإجراءات",
+    "Close": "إلغاء",
+    "Delete": "حذف",
+    "Edit": "تعديل",
+    "PublishDate": "تاريخ النشر",
+    "NewBook": "كتاب جديد",
+    "Name": "الاسم",
+    "Type": "النوع",
+    "Price": "السعر",
+    "CreationTime": "تاريخ الاضافة",
+    "AreYouSure": "هل انت متاكد ؟",
+    "AreYouSureToDelete": "هل انت متاكد من انك تريد حذف هذا العنصر؟",
+    "Enum:BookType.0": "غير محدد",
+    "Enum:BookType.1": "مغامرة",
+    "Enum:BookType.2": "السيرة الذاتية",
+    "Enum:BookType.3": "ديستوبيا",
+    "Enum:BookType.4": "رائع",
+    "Enum:BookType.5": "رعب",
+    "Enum:BookType.6": "علمي",
+    "Enum:BookType.7": "خيال علمي",
+    "Enum:BookType.8": "شعر",
+
+    //Authors
+    "Menu:Authors": "المؤلفين",
+    "Authors": "المؤلفين",
+    "AuthorDeletionConfirmationMessage": "هل انت متاكد من انك تريد حذف المؤلف '{0}'؟",
+    "BirthDate": "تاريخ الميلاد",
+    "NewAuthor": "مؤلف جديد",
+
+    //permissions
+    "Permission:BookStore": "مكتبة لبيع الكتب",
+    "Permission:Books": "ادارة الكتب",
+    "Permission:Books.Create": "اضافة كتاب جديد",
+    "Permission:Books.Edit": "تعديل الكتاب",
+    "Permission:Books.Delete": "حذف الكتاب",
+    "Permission:Authors": "ادارة المؤلفين",
+    "Permission:Authors.Create": "اضافة مؤلف جديد",
+    "Permission:Authors.Edit": "تعديل المؤلف",
+    "Permission:Authors.Delete": "حذف المؤلف",
+    //error's code
+    "BookStore:00001": "يوجد مؤلف بالفعل بنفس الاسم: {name}"
+  }
+}
